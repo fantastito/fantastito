@@ -1,4 +1,4 @@
-### Nice to meet you ✌🏻
+# Nice to meet you ✌🏻
 
 - 🇬🇧🇪🇺 Former policy & comms civil servant turned coder.
 - 💻 Currently a student on the Makers Academy sofwtware engineering bootcamp.
