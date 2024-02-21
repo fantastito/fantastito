@@ -1,7 +1,7 @@
 # Nice to meet you ✌🏻
 
 - 🇬🇧🇪🇺 Former policy & comms civil servant turned coder.
-- 💻 Currently a student on the Makers Academy sofwtware engineering bootcamp.
+- 💻 Currently a student on the Makers Academy software engineering bootcamp.
 - 📫 Contact me: simon.budden@gmail.com.
 
 # 💻 Tech Stack 
