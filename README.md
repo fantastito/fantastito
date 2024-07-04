@@ -4,7 +4,7 @@ Creative, practical, experienced. Simon is a junior software engineer with 10 ye
 
 He is well placed to communicate complex concepts and has a technical mind. Coding brings together the different strands of his career and passions.
 
-Makers Academy graduate; now looking to launch a career in tech.
+Makers Academy graduate; now looking to launch a career in tech. Always on the lookout for new projects. If something below catches your eye, get in touch!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:simon.budden@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/simon-budden-0b280518/)
 
@@ -16,14 +16,12 @@ Makers Academy graduate; now looking to launch a career in tech.
 
 ## Career & skills
 
+### _Cyber security policy advisor_
 **Dept. for Science, Innovation and Technology, London** (April to Oct. 2023)  
-_Cyber security policy advisor_
-
 - Developed new UK internet of things cyber security legislation and collaborated on implementation of enforcement regime.
 
+### _Maritime security policy advisor_
 **Dept. for Transport, London** (Sept. 2020 to April 2023)  
-_Maritime security policy advisor_
-
 - **Documentation • security**: Drafted and researched security instructions to ports, including updated cyber security policy.
 - **Stakeholder management**: Established network of European counterparts.
 - **Industry engagement • analysis • compliance**: Delivered review of maritime security legislation, including GDPR-compliant industry survey with 93% response increase on previous survey.
@@ -31,9 +29,8 @@ _Maritime security policy advisor_
 - **Time management • attention to detail**: Drafted and shepherded frequent submissions to ministers on sensitive issues, ensuring accuracy of advice.
 - **Calls to tender**: Evaluated public sector tenders, identifying value for money.
 
+### _Communications officer_
 **European Parliament, Brussels** (June 2015 to Sept. 2020)  
-_Communications officer_
-
 - **Website development**: Collaborated on the re-development of visitor website, defining requirements to showcase facilities.
 - **Customer focus • communication**: Developed engaging B2C and B2B comms materials for website and newsletters, print materials, and visitor facilities; providing modern, compelling and clear information to audiences, and ensuring consistent voice across platforms.
 - **Public speaking**: Presented to visitor groups, explaining and interpreting the parliament’s history, processes and impact.
