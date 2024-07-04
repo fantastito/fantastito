@@ -1,8 +1,12 @@
 # Simon Budden
 
-Junior software developer with 10 years public sector policy and comms experience in Brussels 🇪🇺 and London 🇬🇧. Makers Academy graduate, learning the foundations of coding in 16 weeks and building a [fully functional web app](https://tutormatchfe.onrender.com/).
+Creative, practical, experienced. Simon is a junior software engineer with 10 years experience of interpreting the European Union and analysing maritime security. 
 
-[Email](mailto:simon.budden@gmail.com) [LinkedIn](https://www.linkedin.com/in/simon-budden-0b280518/)
+He is well placed to communicate complex concepts and has a technical mind. Coding brings together the different strands of his career and passions.
+
+Makers Academy graduate; now looking to launch a career in tech.
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:simon.budden@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/simon-budden-0b280518/)
 
 ## Projects
 
