@@ -44,17 +44,8 @@ After completing an intensive 16-week bootcamp he is looking to join an innovati
 - Software development module focusing on JavaScript and web applications, including RESTful APIs and agile group projects  [Acebook](https://github.com/fantastito/Acebook); [Acebook Mobile](https://github.com/fantastito/Acebook-Mobile); and [TutorMatch](https://github.com/KatBiel/TutorMatch); ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 - The course underscored the importance of modern software development practices such as using ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) and ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=fflat&logo=github&logoColor=white), pair programming, test-driven development, object oriented programming, debugging processes/ problem solving, and agile methodologies.
 
-#### College of Europe, Bruges
-
-- M.A. European Political & Governance Studies, on European Union political theory, policy process, structure, law and economy.
-- Bilingual EN-FR; public sector transformation project on buisness licencing; edited guide book for incoming students
-
-#### University of Bath, Bath
-
-- B.A. (Hons.) Modern Languages & European Studies, on politics, history, culture, and society of France, Spain, Latin America and Europe
-- Erasmus year in Madrid and Brussels
-- 2:1
-- Active in student radio and student television.
+#### M.A. European Political & Governance Studies, College of Europe, Belgium
+#### B.A. Modern Languages & European Studies, University of Bath, UK
 
 ---
 
