@@ -1,10 +1,10 @@
 # Simon Budden
 
-Creative, practical, experienced. Simon is a junior software engineer with 10 years experience of interpreting the European Union and analysing maritime security. 
+Creative, practical, experienced. 
 
-He is well placed to communicate complex concepts and has a technical mind. Coding brings together the different strands of his career and passions.
+Simon is a junior software engineer with 10 years experience of interpreting the European Union and analysing maritime security. He has a track record of managing innovative projects and collaborating with diverse stakeholders. He is well placed to communicate complex concepts and has a technical mind. Coding brings together the different strands of his career and passions. 
 
-Makers Academy graduate; now looking to launch a career in tech. Always on the lookout for new projects. If something below catches your eye, get in touch!
+After completing an intensive 16-week bootcamp he is looking to join an innovative development team where he can use his software training and experience while adding depth and breadth to his engineering skills.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:simon.budden@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/simon-budden-0b280518/)
 
